@@ -16,7 +16,7 @@ The project aims to develop a comprehensive ETL process within a database, coupl
 
 <p align="center">
 STEP 1 – ETL Process in SQL Server<br/>
-<br /> So the first step in churn analysis is to load the data from the source file (Customer_Data.csv). For this purpose we will be using Microsoft SQL server because it is a widely used solution across the industry and also because a full-fledged Database System is better at handling recurring data loads and maintaining data integrity compared to an excel file.
+<br /> So the first step in churn analysis is to load the data from the source file (https://github.com/NelsonRamos-code/Churn-Analysis-Project/blob/main/Customer_Data.csv). For this purpose we will be using Microsoft SQL server because it is a widely used solution across the industry and also because a full-fledged Database System is better at handling recurring data loads and maintaining data integrity compared to an excel file.
 <br />
 
 <p align="center">
