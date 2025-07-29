@@ -1,9 +1,9 @@
-<h1>Churn Analysis Project</h1>
+<h1>End-End Churn Analysis Project</h1>
 
 
 
 <h2>Description</h2>
-This project aimed to enhance the sales reporting capabilities of the organization by designing interactive dashboards in Power BI that provide comprehensive visibility into sales performance, customer behavior, product trends, and budget tracking. The dashboards were developed using data from CRM systems and sales budgets maintained in Excel.
+The project aims to develop a comprehensive ETL process within a database, coupled with an interactive Power BI dashboard, to analyze and visualize customer data across multiple dimensions, including demographic, geographic, payment and account information, and service usage. The primary objectives are to gain actionable insights into customer behavior, particularly focusing on studying churner profiles to identify key trends and potential areas for targeted marketing campaigns.
 <br />
 
 <h2>Tools & Technologies Used</h2>
