@@ -244,3 +244,16 @@ Churn Rate = [Total Churn] / [Total Customers]
  STEP 4 – Power BI Visualization
 <br/>
 
+<p align="center">
+Account Information <br/>
+    
+<img src="https://i.imgur.com/A8xEuww.png"/>
+<br />
+<br />
+
+<p align="center">
+Demographic <br/>
+    
+<img src="https://i.imgur.com/K4svXxZ.png"/>
+<br />
+<br />
